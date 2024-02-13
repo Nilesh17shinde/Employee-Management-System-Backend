@@ -9,11 +9,11 @@
 </dependency>
 ```
 - Validation
-  ```xml
+```xml
   <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-validation</artifactId>
-        </dependency>
+  </dependency>
   ```
 
 ## Configure Spring Datasource, JPA, App properties
