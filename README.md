@@ -8,6 +8,28 @@
   <scope>runtime</scope>
 </dependency>
 ```
+- lobbok
+```xml
+<dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <optional>true</optional>
+</dependency>
+```
+- web
+```xml
+<dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+</dependency>
+```
+- data jpa
+```xml
+<dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+</dependency>
+```
 - Validation:
 ```xml
   <dependency>
