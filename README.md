@@ -1,4 +1,7 @@
 # Employee-Management-System
+- Developed a full-stack CRUD web application using Spring Boot for the backend and Angular for the frontend.
+- Managed user data persistence through JPA/Hibernate in a MySQL database.
+- Implemented RESTful API endpoints for user record operations.
 ## Dependency
 – MySQL:
 ```xml
@@ -8,7 +11,7 @@
   <scope>runtime</scope>
 </dependency>
 ```
-- lobbok
+- lombok
 ```xml
 <dependency>
             <groupId>org.projectlombok</groupId>
