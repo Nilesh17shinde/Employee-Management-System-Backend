@@ -1,4 +1,20 @@
 # Employee-Management-System
+## Dependency
+– MySQL:
+```xml
+<dependency>
+  <groupId>com.mysql</groupId>
+  <artifactId>mysql-connector-j</artifactId>
+  <scope>runtime</scope>
+</dependency>
+```
+- Validation
+  ```xml
+  <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-validation</artifactId>
+        </dependency>
+  ```
 
 ## Configure Spring Datasource, JPA, App properties
 - For MySQL
