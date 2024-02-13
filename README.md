@@ -8,7 +8,7 @@
   <scope>runtime</scope>
 </dependency>
 ```
-- Validation
+- Validation:
 ```xml
   <dependency>
             <groupId>org.springframework.boot</groupId>
